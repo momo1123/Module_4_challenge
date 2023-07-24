@@ -1,0 +1,22 @@
+h6{
+    margin: 3px;
+    padding: 2px;
+}
+#timer-count{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+#high-score{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+#questions{
+    position:absolute;
+    top:200px;
+    left:600px;
+
+}
